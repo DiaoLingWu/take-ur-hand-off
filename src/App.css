@@ -5,6 +5,10 @@
   justify-content: center;
 }
 
+.main.touched {
+  background-color: red;
+}
+
 .video {
   margin-top: 80px;
   width: 640px;
